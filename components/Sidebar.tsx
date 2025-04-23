@@ -305,7 +305,7 @@ function Sidebar({ sidebarOpen }: Props) {
 
             <nav className="flex-1 p-4">
                 <ul className="space-y-6">
-                    <Link href={"/depend"} className="flex items-center">
+                    <Link href={"/synopsis"} className="flex items-center">
                         <div className="w-6 h-6 mr-2 flex items-center justify-center rounded">
                             <span className="text-xs">📄</span>
                         </div>

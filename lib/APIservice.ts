@@ -1,7 +1,7 @@
 import axios from "axios";
 import { format } from "date-fns";
 
-const BASE_URL = "https://9960-112-196-96-42.ngrok-free.app"
+const BASE_URL = "http://localhost:8000";
 
 export const fetchPdf = async () => {
     try {
